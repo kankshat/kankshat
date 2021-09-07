@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+Thanks for visiting my site. Most credit for site goes to Rachit Pareek and his site live on github. 
+
+I wanted to play around with HTML and CSS a bit but found myself using a broader range of languages than intentend. 
 <!--
 **kankshat/kankshat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
